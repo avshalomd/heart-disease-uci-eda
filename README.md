@@ -1,4 +1,6 @@
-# Exploratory data analysis (EDA) example using Heart Disease UCI dataset
+# Exploratory data analysis (EDA) example
+## Heart Disease UCI dataset
+[source](https://www.kaggle.com/ronitf/heart-disease-uci)
 
 # Installation
 
